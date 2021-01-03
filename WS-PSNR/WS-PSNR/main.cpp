@@ -40,7 +40,7 @@
  *     WS-PSNR for 360 video quality evaluation  Yule Sun, Ang Lu, Lu Yu,     
  *     ISO/IEC JTC1/SC29/WG11 MPEG2016/M38551, May 2016, Geneva                 
  */
-
+//test for git
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
